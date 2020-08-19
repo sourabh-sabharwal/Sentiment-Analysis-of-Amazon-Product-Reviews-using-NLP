@@ -1,5 +1,5 @@
-# Sentiment-Analysis-of-Amazon-Product-Reviews-using-NLP
-Sentiment Analysis of Amazon Product Reviews using NLP
+# Sentiment-Analysis-of-Amazon-Products-using-NLP-Reviews
+Sentiment Analysis of Amazon Products using NLP on Reviews
 
 
 Model: Amazon Product Analysis based on user reviews.
